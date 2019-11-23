@@ -22,6 +22,10 @@ dependencies:
 
   cupertino_icons: ^0.1.2
   intl: ^0.16.0
+  dio: ^2.1.13
+  provider: ^3.0.0+1
+  shared_preferences: ^0.5.3+4
+  flare_flutter: ^1.7.3
 
 dev_dependencies:
   flutter_test:
